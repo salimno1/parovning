@@ -12,8 +12,20 @@ This**word** is bold. This <em>word</em> is italic.
 
 # parovning
 
-## ER diagram in markdown
+## Userstory-008
 
+### Emoticon code
+
+` :blush: `
+
+### Emoticon
+
+:blush:
+
+
+## Userstory-012
+
+```mermaid
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     CUSTOMER {
@@ -30,8 +42,5 @@ erDiagram
         string productCode
         int quantity
         float pricePerUnit
-    }
->>>>>>> c101a745dddcecaabbb7a6ed4dc62f7fbbbaf9d4
-
-
-
+    }=
+```
