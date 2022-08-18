@@ -1,7 +1,19 @@
 # parovning
 
-## ER diagram in markdown
+## Userstory-008
 
+### Emoticon code
+
+` :blush: `
+
+### Emoticon
+
+:blush:
+
+
+## Userstory-012
+
+```mermaid
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     CUSTOMER {
@@ -20,3 +32,4 @@ erDiagram
         float pricePerUnit
     }
 
+```
