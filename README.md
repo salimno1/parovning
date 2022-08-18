@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  parovning
 
 Userstory-001
@@ -7,6 +6,10 @@ string name = "Salim"
 ```
 
 =======
+
+Userstory-007
+This**word** is bold. This <em>word</em> is italic.
+
 # parovning
 
 ## ER diagram in markdown
@@ -29,4 +32,6 @@ erDiagram
         float pricePerUnit
     }
 >>>>>>> c101a745dddcecaabbb7a6ed4dc62f7fbbbaf9d4
+
+
 
