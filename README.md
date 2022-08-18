@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+ parovning
+
+Userstory-001
+```js
+string name = "Salim"
+```
+
+=======
 # parovning
 
 ## Userstory-008
@@ -31,5 +40,6 @@ erDiagram
         int quantity
         float pricePerUnit
     }
+>>>>>>> c101a745dddcecaabbb7a6ed4dc62f7fbbbaf9d4
 
 ```
