@@ -9,6 +9,17 @@ string name = "Salim"
 =======
 # parovning
 
+## Userstory-006 
+
+### Markdown table
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
+
 ## Userstory-008
 
 ### Emoticon code
@@ -21,6 +32,8 @@ string name = "Salim"
 
 
 ## Userstory-012
+
+### ER-diagram
 
 ```mermaid
 erDiagram
