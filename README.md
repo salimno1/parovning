@@ -33,6 +33,19 @@ This**word** is bold. This <em>word</em> is italic.
 
 :blush:
 
+## Userstory-010
+
+### Unordered list:
+
+* first item
+* Second item
+* third item
+
+### Ordered list 
+
+1. one
+2. two 
+3. third
 
 ## Userstory-012
 
